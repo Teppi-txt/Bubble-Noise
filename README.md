@@ -20,5 +20,5 @@ A generator for different types of voronoi noise, written in Java with IntelliJ.
 
 | Standard Animation  | Seamless Animation |
 | ------------- | ------------- |
-| <img src="https://user-images.githubusercontent.com/64125245/180595264-2de824fb-4c24-4459-9182-5fd78be4579a.gif" width="405" />  | <img src="https://user-images.githubusercontent.com/64125245/180595572-16831986-f1ae-450c-b038-a6edff6d26ba.gif" width="405" />
+| <img src="https://user-images.githubusercontent.com/64125245/180595264-2de824fb-4c24-4459-9182-5fd78be4579a.gif" width="400" />  | <img src="https://user-images.githubusercontent.com/64125245/180595572-16831986-f1ae-450c-b038-a6edff6d26ba.gif" width="400" />
 
