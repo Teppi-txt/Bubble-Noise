@@ -5,6 +5,7 @@ A generator for different types of voronoi noise, written in Java with IntelliJ.
 1. Color Ramp (how the program blends between 2 or more colors).
 2. Shading (Whether to use gradients or have flat colors instead of fall-off).
 3. Density of "points" in the voronoi grid.
+4. Depth (The amount of frames in a 3D texture).
 
 <h2>Examples of generated noise:</h2>
 
